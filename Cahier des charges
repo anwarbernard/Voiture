@@ -1,9 +1,0 @@
-Cahier des charges :
-Voiture télécommandé avec gant :
-Le Gant : 	1 Carte Arduino 
--	Mouvement de la main => collecte les valeurs de déplacement (axes x et y)  => module accéléromètre
--	Communication Bluetooth avec la voiture => transmet les valeurs de déplacement (axes x et y) => module Bluetooth
-
-La Voiture :     1 Carte Arduino 
--	Communication Bluetooth avec le gant => récupère les valeurs de déplacement (axes x et y) => module Bluetooth
--	Déplacement de la voiture => 4 ou 3 (2 motrices + 1 libre) roues => 4 ou 2 moteurs indépendants
